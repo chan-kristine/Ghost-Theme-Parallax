@@ -1,0 +1,27 @@
+body{
+	background-color: #534946;
+}
+#container{
+    position: absolute;
+    width: 500px;
+    transform: translate(-50%,-50%);
+	top: 50%;
+	left: 35%;
+    font-size: 25px;
+}
+#canvas1{
+	position: relative;
+	border: black;
+	border-style: double;
+	border-radius: 40px;
+	width: 1000px;
+	height: 500px;
+	background: #b6411e;
+   
+}
+#slider{
+    width: 100%;
+}
+p{
+    color: rgb(255, 255, 255);
+}
